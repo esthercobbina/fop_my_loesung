@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h01.ExampleJUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-30T11:10:16.563Z" hostname="DESKTOP-28HRM9C" time="0.032">
+  <properties/>
+  <testcase name="testAddition()" classname="h01.ExampleJUnitTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
